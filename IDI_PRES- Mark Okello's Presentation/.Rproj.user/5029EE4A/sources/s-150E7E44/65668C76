@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1575947313242.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "65668C76",
+    "lastKnownWriteTime" : 1575950816,
+    "last_content_update" : 1575950816422,
+    "path" : "~/Desktop/IDI_PRES/r_script.R",
+    "project_path" : "r_script.R",
+    "properties" : {
+        "cursorPosition" : "276,0",
+        "scrollLine" : "271",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
